@@ -1,0 +1,7 @@
+What is Scaling, why it is important?
+https://ethereum.org/en/developers/docs/scaling/
+
+Layer 2 solutions that will be tested:
+1. ZK-Synch
+2. Polygon
+3. Milkomeda
