@@ -12,7 +12,7 @@ Sub-projects constituting SUPayment:
 ## RoadMap
 Our roadmap for the term of Fall 2022 is to complete these subprojects as much as possible. Under the supervision of Sabanci University Academics Kamer Kaya, Hüsnü Yenigün and Erkay Savaş, we aim to bring the project to a place where it can be used by facilities and business within the university as well as by third-party projects.
 
-###What we have done (As of week 6):
+### What we have done (As of week 6):
 - Aggregating and putting together the code and documentation done by teams preceeding us.
 - Planned 3 Layer2 solutions for Scaling (see docs folder for further detail)
 - Planned an off-line minting mechanism for SUCoin. Still looking for better solutions.
