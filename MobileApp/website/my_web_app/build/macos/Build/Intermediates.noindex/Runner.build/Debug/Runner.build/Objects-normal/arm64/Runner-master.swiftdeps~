@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
-options: "fa713bccfab8f00d5ccea31fd01515b6629ee150fe025d2ddefb57fb690c5c76"
-build_start_time: [1670859319, 212844848]
-build_end_time: [1670859319, 255723953]
-inputs:
-  ? "/Users/ykc/Documents/Worksplace/Fall2022/ENS491/SUPayment/MobileApp/website/my_web_app/macos/Flutter/GeneratedPluginRegistrant.swift"
-  : !private [1670859302, 162219047]
-  "/Users/ykc/Documents/Worksplace/Fall2022/ENS491/SUPayment/MobileApp/website/my_web_app/macos/Runner/AppDelegate.swift": !private [1657744731, 0]
-  "/Users/ykc/Documents/Worksplace/Fall2022/ENS491/SUPayment/MobileApp/website/my_web_app/macos/Runner/MainFlutterWindow.swift": !private [1657744731, 0]
